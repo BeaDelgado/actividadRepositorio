@@ -16,4 +16,7 @@ public class Clase {
     public Clase() {
         a = 7;
     }
+    public void modificacion(){
+        
+    }
 }
